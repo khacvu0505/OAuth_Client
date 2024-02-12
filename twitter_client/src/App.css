@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+.message-right {
+  text-align: right;
+}
+.message-left {
+  text-align: left;
+}
